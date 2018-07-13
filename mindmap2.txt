@@ -1,0 +1,5 @@
+{"arrowline":1,"color":[[0,0,0,255],[0,0,0,255],[0,0,0,255]],"height":30,"outline":3,"picture_file":"","show":true,"shrink":false,"tooltip":"","width":50}
+한국
+{"arrowline":1,"color":[[0,0,0,255],[0,0,0,255],[0,0,0,255]],"height":10,"outline":3,"picture_file":"","show":true,"shrink":false,"tooltip":"","width":30}
+Hello
+
