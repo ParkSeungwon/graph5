@@ -12,7 +12,7 @@ TEST_CASE("imageinary") {
 	stringstream ss;
 	ss << "(100,3.2)";
 	ss >> im;
-	REQUIRE(im == complex<double>{100, 3.2});
+	REQUIRE((im == complex<double>{100, 3.2}));
 }
 
 
